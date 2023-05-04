@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Poudel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpoudell&label=Profile%20views&color=0e75b6&style=flat" alt="rajpoudell" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpoudell" alt="rajpoudell" /></a> </p>
 
 - 🌱 I’m currently learning **React**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **razpoudel7@gmail.com**
 
-- ⚡ Fun fact **Tea = Code**
+- ⚡ Fun fact ** :  Tea = Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
