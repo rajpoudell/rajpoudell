@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML CSS JS**
 
-- 📫 How to reach me **razpoudel7@gmail.com**
+- 📫 How to reach me :**razpoudel7@gmail.com**
 
 
 
