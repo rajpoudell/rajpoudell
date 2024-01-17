@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ** Node js**
 
-- 🤝 I’m looking for help with **Frontend**
+- 🤝 I’m currently working on **Node js **
 
 - 👨‍💻 All of my projects are available at [https://poudelraj.com.np](https://poudelraj.com.np)
 
