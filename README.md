@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://poudelraj.com.np](https://poudelraj.com.np)
 
-- 💬 Ask me about **HTML CSS JS**
+- 💬 Ask me about **HTML CSS JS(React Js)**
 
 - 📫 How to reach me :**razpoudel7@gmail.com**
 
