@@ -30,3 +30,19 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajpoudell&" alt="rajpoudell" /></p>
+
+
+
+# 📊 GitHub Stats:
+<img width="685" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durgesh4993&theme=dark">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajpoudell&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajpoudell&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajpoudell&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajpoudell&theme=dark&utcOffset=8)
+
+---
+
+# ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"> 
+
