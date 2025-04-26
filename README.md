@@ -6,9 +6,6 @@
 
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🌱 I’m currently learning * Node js*
-
-- 🤝 I’m currently working on **Node js **
 
 - 👨‍💻 All of my projects are available at [https://poudelraj.com.np](https://poudelraj.com.np)
 
